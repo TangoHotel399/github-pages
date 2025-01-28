@@ -1,4 +1,4 @@
 ---
-title: Welcome to the Tango Hotel
+Welcome to the Tango Hotel
 ---
 
