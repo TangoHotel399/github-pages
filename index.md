@@ -1,8 +1,8 @@
-Header---
+Head
 
 
 Welcome to the Tango Hotel
 
 
-Footer---
+Foot
 
